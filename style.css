@@ -43,9 +43,9 @@ section {
     padding-bottom: 10vh;
     padding-left: 30px;
     font-family: var(--fonte-verso);
-    line-height: 2em;
     background-color: white;
-    font-size: 3.5vw;
+    
+    
 }
  p {
 padding-bottom: 2em;
